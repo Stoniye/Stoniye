@@ -5,17 +5,17 @@
 ------
 <h3 align="left">Activitys:</h3>
 
-![Stoniyes github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Stoniye&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)
+![Stoniyes github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Stoniye&bg_color=0d1016&color=13dc7e&line=00dc5d&title_color=cfcfce&point=192c34&area_color=18353a&area=true&hide_border=true)
 
 <p align="center">
-  <a href="https://github.com/Stoniye">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stoniye&&theme=tokyonight" alt="Stoniye" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Stoniye&theme=soft-green&background=0d1016" alt="GitHub Streak" />
   </a>
 </p>
 <div align="center">
   <a href="https://github.com/Stoniye">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Stoniye&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Stoniye"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Stoniye&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Stoniye"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Stoniye&show_icons=true&locale=en&layout=compact&theme=tokyonight&title_color=cfcfce&bg_color=0d1016&text_color=929596" alt="Stoniye"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Stoniye&show_icons=true&locale=en&layout=compact&theme=tokyonight&title_color=cfcfce&bg_color=0d1016&text_color=929596" alt="Stoniye"/>
   </a>
 </div>
 
@@ -39,6 +39,3 @@
         <td><img height="40" src="https://skillicons.dev/icons?i=windows"/></td>
     </tr>
 </table>
-
-------
-Last Update: 14.4.2025
