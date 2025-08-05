@@ -5,19 +5,13 @@
 ------
 <h3 align="left">Activitys:</h3>
 
-![Stoniyes github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Stoniye&bg_color=0d1016&color=13dc7e&line=00dc5d&title_color=cfcfce&point=192c34&area_color=18353a&area=true&hide_border=true)
-
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Stoniye&theme=soft-green&background=0d1016" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=Stoniye&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&fire=EB5C20&currStreakNum=00DC5D&currStreakLabel=00DC5D&sideNums=13DC7E&dates=006C2D&ring=00DC5D&sideLabels=CFCFCE&stroke=CFCFCE&excludeDaysLabel=006C2D" alt="GitHub Streak" />
   </a>
 </p>
-<div align="center">
-  <a href="https://github.com/Stoniye">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Stoniye&show_icons=true&locale=en&layout=compact&theme=tokyonight&title_color=cfcfce&bg_color=0d1016&text_color=929596" alt="Stoniye"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Stoniye&show_icons=true&locale=en&layout=compact&theme=tokyonight&title_color=cfcfce&bg_color=0d1016&text_color=929596" alt="Stoniye"/>
-  </a>
-</div>
+
+![Stoniyes github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Stoniye&bg_color=0d1117&color=13dc7e&line=00dc5d&title_color=0d1117&point=192c34&area_color=18353a&area=true&hide_border=true)
 
 ------
 <h3 align="left">Knowledge:</h3>
