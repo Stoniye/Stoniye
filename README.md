@@ -43,3 +43,9 @@
 <p align="center">
     https://stoniye.github.io/portfolio
 </p>
+<p align="center">
+    or about my hobby:
+</p>
+<p align="center">
+    https://allconade.com
+</p>
