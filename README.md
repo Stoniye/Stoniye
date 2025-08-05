@@ -1,17 +1,21 @@
 ### Stonie
 
-18y old Developer from Austria, more on my [website](https://stoniye.github.io/portfolio/)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=800&duration=4000&pause=300&color=00DC5D&center=true&width=500&lines=Hey%F0%9F%91%8B%F0%9F%8F%BB;18y+old;from+Austria+%F0%9F%87%A6%F0%9F%87%B9" />
+</h1>
+
+[website](https://stoniye.github.io/portfolio/)
 
 ------
 <h3 align="left">Activitys:</h3>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-eight.vercel.app?user=Stoniye&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&fire=EB5C20&currStreakNum=00DC5D&currStreakLabel=00DC5D&sideNums=13DC7E&dates=006C2D&ring=00DC5D&sideLabels=CFCFCE&stroke=CFCFCE&excludeDaysLabel=006C2D" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=Stoniye&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&fire=EB5C20&currStreakNum=00DC5D&currStreakLabel=00DC5D&sideNums=13DC7E&dates=006C2D&ring=00DC5D&sideLabels=CFCFCE&stroke=CFCFCE&excludeDaysLabel=006C2D" alt="GitHub Streak" />
   </a>
 </p>
 
-![Stoniyes github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Stoniye&bg_color=0d1117&color=13dc7e&line=00dc5d&title_color=0d1117&point=192c34&area_color=18353a&area=true&hide_border=true)
+![Stoniyes github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Stoniye&bg_color=00000000&color=13dc7e&line=00dc5d&title_color=00000000&point=192c34&area_color=18353a&area=true&hide_border=true)
 
 ------
 <h3 align="center">Knowledge:</h3>
