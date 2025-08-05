@@ -14,8 +14,8 @@
 ![Stoniyes github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Stoniye&bg_color=0d1117&color=13dc7e&line=00dc5d&title_color=0d1117&point=192c34&area_color=18353a&area=true&hide_border=true)
 
 ------
-<h3 align="left">Knowledge:</h3>
-<table>
+<h3 align="center">Knowledge:</h3>
+<table align="center">
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=cs,c,cpp,css,dart,html,js,py"/></td>
