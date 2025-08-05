@@ -1,10 +1,15 @@
 ### Stonie
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=800&duration=4000&pause=300&color=00DC5D&center=true&width=500&lines=Hey%F0%9F%91%8B%F0%9F%8F%BB;18y+old;from+Austria+%F0%9F%87%A6%F0%9F%87%B9" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=800&duration=4000&pause=300&color=00DC5D&center=true&width=500&lines=Hey%F0%9F%91%8B%F0%9F%8F%BB;19y+old;from+Austria+%F0%9F%87%A6%F0%9F%87%B9" />
 </h1>
 
-[website](https://stoniye.github.io/portfolio/)
+<p align="center">
+    More about me on my website:
+</p>
+<p align="center">
+    https://stoniye.github.io/portfolio
+</p>
 
 ------
 <h3 align="left">Activitys:</h3>
