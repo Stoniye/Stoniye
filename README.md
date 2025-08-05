@@ -1,6 +1,6 @@
 ### Stonie
 
-18y old Developer from Austria
+18y old Developer from Austria, more on my [website](https://stoniye.github.io/portfolio/)
 
 ------
 <h3 align="left">Activitys:</h3>
@@ -33,5 +33,3 @@
         <td><img height="40" src="https://skillicons.dev/icons?i=windows,linux"/></td>
     </tr>
 </table>
-
-[My Website](https://stoniye.github.io/portfolio/)
