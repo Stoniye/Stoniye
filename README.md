@@ -1,18 +1,11 @@
-### Stonie
+<h3 align="center">Stonie</h3>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=800&duration=4000&pause=300&color=00DC5D&center=true&width=500&lines=Hey%F0%9F%91%8B%F0%9F%8F%BB;19y+old;from+Austria+%F0%9F%87%A6%F0%9F%87%B9" />
-</h1>
-
-<p align="center">
-    More about me on my website:
-</p>
-<p align="center">
-    https://stoniye.github.io/portfolio
-</p>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=800&duration=4000&pause=300&color=00DC5D&center=true&width=500&lines=Hey%F0%9F%91%8B%F0%9F%8F%BB;19y+old;from+Austria+%F0%9F%87%A6%F0%9F%87%B9">
+</div>
 
 ------
-<h3 align="left">Activitys:</h3>
+<h3 align="center">Activitys:</h3>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
@@ -42,3 +35,11 @@
         <td><img height="40" src="https://skillicons.dev/icons?i=windows,linux"/></td>
     </tr>
 </table>
+
+------
+<p align="center">
+    More about me on my website:
+</p>
+<p align="center">
+    https://stoniye.github.io/portfolio
+</p>
