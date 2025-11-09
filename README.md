@@ -41,7 +41,7 @@
     More about me on my website:
 </p>
 <p align="center">
-    https://stoniye.github.io/portfolio
+    https://stonie.dev
 </p>
 <p align="center">
     or about my hobby:
